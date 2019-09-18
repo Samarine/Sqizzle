@@ -23,11 +23,11 @@ Along with Location Information we also get Device Information without any permi
 * Public IP Address
 * IP Address Reconnaissance
 
-**This tool is a Proof of Concept and is for Educational Purposes Only, Sqizzle shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.
+This tool is a Proof of Concept and is for Educational Purposes Only, Sqizzle shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.
 
 
 
-**Based on https://github.com/thewhiteh4t/seeker and https://github.com/thelinuxchoice/saycheese
+Based on https://github.com/thewhiteh4t/seeker and https://github.com/thelinuxchoice/saycheese
 
 ## Installation:
 ### Kali Linux / Ubuntu / Parrot OS
