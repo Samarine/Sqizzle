@@ -9,7 +9,8 @@ Sqizzle Hosts a fake website on In Built PHP Server and uses Serveo to generate 
 * Altitude - Not always available
 * Direction - Only available if user is moving
 * Speed - Only available if user is moving
-* Webcam Photos(Will be saved in ./templates/nearyou/php/log)
+* Webcam Photos (Will be saved in ./templates/nearyou/php/log)
+
 Along with Location Information we also get Device Information without any permissions :
 
 * Operating System
@@ -46,9 +47,9 @@ chmod 777 termux_install.sh
 ## Usage
 
 ```bash
-python3 seeker.py -h
+python3 sqizzle.py -h
 
-usage: seeker.py [-h] [-s SUBDOMAIN]
+usage: sqizzle.py [-h] [-s SUBDOMAIN]
 
 optional arguments:
   -h, --help                              show this help message and exit
@@ -56,7 +57,7 @@ optional arguments:
 
 # Example
 
-python3 seeker.py --subdomain google
+python3 sqizzle.py --subdomain google
 ```
 ## Known Problems
 
