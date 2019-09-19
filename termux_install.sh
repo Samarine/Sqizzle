@@ -14,7 +14,7 @@ pip3 install requests &>> install.log
 echo
 echo '[!] Setting Permissions...'
 chmod 777 template/nearyou/php/info.txt
-chmod 777 template/nearyou/log
+chmod 777 template/nearyou/php/log
 chmod 777 template/nearyou/php/result.txt
 echo
 echo '[!] Installed.'
